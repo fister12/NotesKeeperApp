@@ -1,6 +1,14 @@
-# Welcome to your Expo app 👋
+# Welcome to Notes Keeper App 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## 📱 App Screenshots
+
+Below are some screenshots of the app in action:
+
+| Home Screen | Notes Creation | Note Editor | Note Editor 2 | Note Screen | New Pinned Note |
+|-------------|---------------|-------------|---------------|-------------|-----------------|
+| ![HomeScreen](./Images/HomeScreen.jpg) | ![NotesCreationScreen](./Images/NotesCreationScreen.jpg) | ![NoteEditorScreen](./Images/NoteEditorScreen.jpg) | ![NoteEditorScreen2](./Images/NoteEditorScreen%20(2).jpg) | ![NoteScreen](./Images/NoteScreen.jpg) | ![NewPinnedNoteCreated](./Images/NewPinnedNoteCreated.jpg) |
+
+---
 
 ## Get started
 
@@ -34,13 +42,6 @@ npm run reset-project
 ```
 
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
 ## Join the community
 
